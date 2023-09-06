@@ -1,0 +1,28 @@
+
+.overflow {
+    overflow: auto;
+    width: 200px;
+    height: 50px;
+}
+
+.cursor_style {
+    cursor: pointer;
+}
+
+.table {
+    table-layout: fixed;
+}
+
+.table-cell {
+    word-wrap: break-word;
+    max-height: 70px;
+    overflow: auto;
+}
+
+.notsendedsessions {
+    margin-left : 20px;
+}
+
+.controlBtn {
+    outline: none !important;
+}

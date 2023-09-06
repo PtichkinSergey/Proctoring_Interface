@@ -1,0 +1,37 @@
+.client_form{
+    border-radius: 20px;
+    display: flex; 
+    flex-direction: column; 
+    margin: 30px 0px 0px 50px; 
+    width: fit-content;
+}
+
+.client_link{
+    border-radius: 20px;
+    margin: 30px 0px 0px 50px;
+    width: fit-content;
+}
+
+.client_input {
+    margin-bottom: 30px;
+}
+
+.text_field {
+    width: 20vw;
+}
+
+.large_text_field {
+    width: 26vw;
+}
+
+.client_accept {
+    width: fit-content;
+    height: 50px;
+    outline: none !important;
+}
+
+.client_message {
+    border-radius: 20px;
+    margin: 30px 0px 0px 50px;
+    width: fit-content;
+}

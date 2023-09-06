@@ -1,0 +1,12 @@
+.deleteBtn {
+    outline: none !important;
+}
+
+.addOneBtn {
+    outline: none !important;
+}
+
+.saveBtn {
+    width: 20vw; 
+    outline: none !important;
+}

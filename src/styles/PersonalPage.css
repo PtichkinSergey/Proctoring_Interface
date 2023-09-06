@@ -1,0 +1,33 @@
+.profileWrapper {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.whiteBoard {
+    border-radius: 20px;
+    margin: 30px 0px 0px 50px;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+}
+
+.changeNameBtn {
+    width: fit-content;
+    height: 50px;
+    outline: none !important;
+}
+
+.avatar{
+    min-width: 100px;
+    min-height: 100px;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+
+.changeBtn{
+    margin-top: 10px; 
+    margin-bottom: 20px; 
+    max-width: 100; 
+    min-width: fit-content;
+}
